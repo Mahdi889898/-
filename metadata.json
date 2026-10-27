@@ -1,0 +1,6 @@
+{
+  "name": "پزشک همراه",
+  "description": "دستیار هوشمند پزشکی و مشاوره سلامت جهت بررسی علائم بیماری، راهنمایی اولیه و تجویز نسخه و مراقبت‌های درمانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
